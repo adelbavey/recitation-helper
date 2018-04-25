@@ -1,3 +1,3 @@
 # recitation-helper
-Assignment in database course
+Assignment in database course.
 
